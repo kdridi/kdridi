@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est **kdridi** !  
+# 👋 Salut, moi c'est **Karim DRIDI** !  
 
 ## 🧠 Passionné par la programmation bas niveau et les défis techniques  
 
