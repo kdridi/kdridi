@@ -34,6 +34,21 @@ Je suis un **développeur expert en C/C++**, passioné par l’optimisation, les
 
 ---
 
+## 🧪 Expérimentations
+
+- dark souls cheats : [code](https://gist.github.com/kdridi/9ec69c08d6d7ffaf2c3bfd5455ed45bc)
+- eval expr en c : [code](https://gist.github.com/kdridi/d7a8a4e8109aab2b70ce5aaddb4c5452)
+- function call based list implementation in js : [code](https://gist.github.com/kdridi/eac34978b7179583bf74f604f38e254e)
+- monadic programming in C++ : [code](https://gist.github.com/kdridi/2986815318ec683eb307c8182a3c6d68)
+- various SLT Template Parser Implementations :
+[code 1](https://gist.github.com/kdridi/5ca800df7d2aaf7ddb0deb1047237b9b)
+[code 2](https://gist.github.com/kdridi/28af890dec7cf6c85e4225258948093d)
+[code 3](https://gist.github.com/kdridi/7151f3bd3ef9f6128b62ad7f0fed37a9)
+[code 4](https://gist.github.com/kdridi/d85e9eb7465541dbfd535ba364385fdc)
+[code 5](https://gist.github.com/kdridi/796f4a9aa0545597a7a3bda9065c0599)
+
+---
+
 ## 🛠️ Stack & Outils  
 
 🚀 **Langages & Environnements**  
