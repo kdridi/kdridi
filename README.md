@@ -64,6 +64,7 @@ Je suis un **développeur expert en C/C++**, passioné par l’optimisation, les
 
 💼 **LinkedIn** : [linkedin.com/in/kdridi](https://www.linkedin.com/in/kdridi)  
 🐙 **GitHub** : [github.com/kdridi](https://github.com/kdridi)  
+📺 **YouTube** : [youtube.com/@kdridi](https://www.youtube.com/@kdridi/video)  
 
 ---
 
